@@ -1,2 +1,2 @@
 # Oracle
-Here are my files which I am using during my daily support as an Oracle DBA.
+Here are my scripts which I am using during my daily support as an Oracle DBA. Most of them is SQL stuff but there are also some documents about how to use Unix/Linux commands to solve typical problems. I also plan to write documents about problems I solved (knowledge database). Let's see how it is going...
